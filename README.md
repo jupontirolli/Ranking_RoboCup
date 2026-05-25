@@ -39,6 +39,7 @@ O ranking das equipes é calculado de acordo com as seguintes regras:
 - Derrota = 0 pontos
 
 Em caso de empate na pontuação, a nota de design do robô é utilizada como critério de desempate.
+
 ---
 
 ## 💻 Como Funciona
